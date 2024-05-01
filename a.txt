@@ -1,4 +1,3 @@
 initial content
 new line from mushon
-this is mushon's work
 another content on github
